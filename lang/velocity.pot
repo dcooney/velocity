@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Load More\n"
+"POT-Creation-Date: 2016-03-03 10:35-0500\n"
+"PO-Revision-Date: 2016-03-03 10:35-0500\n"
+"Last-Translator: Darren Cooney <dcooney@ecentricarts.com>\n"
+"Language-Team: \n"
+"Language: en_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/builder/builder.php:27
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../admin/builder/elements.php:3
+msgid "Image Preview"
+msgstr ""
+
+#: ../admin/builder/elements.php:25 ../admin/views/settings.php:45
+#: ../velocity.php:240
+msgid "Select Image"
+msgstr ""
+
+#: ../admin/builder/elements.php:31
+msgid "Preview Size"
+msgstr ""
+
+#: ../admin/builder/elements.php:34
+msgid "Full Size"
+msgstr ""
+
+#: ../admin/builder/elements.php:58
+msgid "Alt Text"
+msgstr ""
+
+#: ../admin/builder/elements.php:59 ../velocity.php:84
+msgid "Play"
+msgstr ""
+
+#: ../admin/builder/elements.php:63
+msgid "Image Path"
+msgstr ""
+
+#: ../admin/builder/elements.php:68
+msgid "Attachment ID"
+msgstr ""
+
+#: ../admin/builder/elements.php:79
+msgid "Display Velocity Play Button"
+msgstr ""
+
+#: ../admin/builder/elements.php:84
+msgid "Arrow Color"
+msgstr ""
+
+#: ../admin/builder/elements.php:87 ../admin/builder/elements.php:98
+msgid "White"
+msgstr ""
+
+#: ../admin/builder/elements.php:88 ../admin/builder/elements.php:97
+msgid "Black"
+msgstr ""
+
+#: ../admin/builder/elements.php:94
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/builder/elements.php:99
+msgid "Transparent"
+msgstr ""
+
+#: ../admin/builder/elements.php:112
+msgid "Media"
+msgstr ""
+
+#: ../admin/builder/elements.php:116
+msgid "Type"
+msgstr ""
+
+#: ../admin/builder/elements.php:116
+msgid "Select the media service type"
+msgstr ""
+
+#: ../admin/builder/elements.php:119
+msgid "YouTube"
+msgstr ""
+
+#: ../admin/builder/elements.php:123
+msgid "Vimeo"
+msgstr ""
+
+#: ../admin/builder/elements.php:127
+msgid "SoundCloud"
+msgstr ""
+
+#: ../admin/builder/elements.php:134
+msgid "Unique ID"
+msgstr ""
+
+#: ../admin/builder/elements.php:134
+msgid "Enter the ID of the YouTube, Vimeo or SoundCloud media item"
+msgstr ""
+
+#: ../admin/builder/elements.php:141
+msgid "Shortcode Output"
+msgstr ""
+
+#: ../admin/builder/elements.php:144
+msgid ""
+"Copy and paste the following shortcode into the WordPress content editor"
+msgstr ""
+
+#: ../admin/builder/elements.php:147
+msgid "Copy"
+msgstr ""
+
+#: ../admin/builder/elements.php:151
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../admin/views/settings.php:24 ../velocity.php:256
+msgid "Settings"
+msgstr ""
+
+#: ../admin/views/settings.php:25
+msgid "Velocity Builder"
+msgstr ""
+
+#: ../admin/views/settings.php:35
+msgid "Velocity Settings"
+msgstr ""
+
+#: ../admin/views/settings.php:39
+msgid "Default Velocity Image"
+msgstr ""
+
+#: ../admin/views/settings.php:40
+msgid ""
+"Will be used if an image has not been attached to the Velocity shortcode"
+msgstr ""
+
+#: ../admin/views/settings.php:58
+msgid "Save Settings"
+msgstr ""
+
+#: ../admin/views/settings.php:88
+msgid "Features of Velocity"
+msgstr ""
+
+#: ../admin/views/settings.php:100
+msgid "Visit Velocity Homepage"
+msgstr ""
+
+#: ../admin/views/settings.php:106
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: ../velocity.php:257
+msgid "Builder"
+msgstr ""
+
+#: ../velocity.php:283
+msgid "Settings Updated!"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Facebook"
+#~ msgstr "Partager sur Facebook"
+
+#, fuzzy
+#~ msgid "Twitter"
+#~ msgstr "Partager sur Twitter"
+
+#, fuzzy
+#~ msgid "-- Select Repeater --"
+#~ msgstr "Sélectionnez province"
+
+#~ msgid "404 Error"
+#~ msgstr "Erreur 404 "
+
+#~ msgid "Sorry, the page you have requested cannot be found."
+#~ msgstr "Désolé, la page que vous demandez est introuvable."
+
+#~ msgid ""
+#~ "Be sure to check your spelling. If all else fails, you can go back to the "
+#~ "page you came from, return to the <a href=\"/\">homepage</a>, or try "
+#~ "searching."
+#~ msgstr ""
+#~ "Veuillez vérifier l'orthographe. Si tout échoue, retournez à la page "
+#~ "précédente, retournez à la <a href=\"/\">page d'accueil</a>, ou essayez "
+#~ "une recherche."
+
+#~ msgid "Connect with Willow"
+#~ msgstr "Connectez-vous avec Willow"
+
+#~ msgid ""
+#~ "Sign up to stay in touch and receive Willow news, updates and event "
+#~ "information."
+#~ msgstr ""
+#~ "Inscrivez-vous pour rester en contact avec nous et recevoir des nouvelles "
+#~ "de Willow (Disponibles en anglais seulement)"
+
+#~ msgid "all our funders"
+#~ msgstr "tous nos donateurs"
+
+#~ msgid "call our helpline"
+#~ msgstr "Appelez notre ligne de soutien"
+
+#~ msgid "share"
+#~ msgstr "Partager"
+
+#~ msgid "Share via Email"
+#~ msgstr "Partager par courriel"
+
+#~ msgid "Print Page"
+#~ msgstr "Imprimer cette page"
+
+#~ msgid "Your search returned <strong>%s</strong> result%s"
+#~ msgstr "Votre recherche a généré <strong>%s</strong>  résultat%s "
+
+#~ msgid "search"
+#~ msgstr "Recherche"
+
+#~ msgid "Showing"
+#~ msgstr "Montrant"
+
+#~ msgid "result(s) in"
+#~ msgstr "résultat(s) dans"
+
+#~ msgid "For more information please contact:"
+#~ msgstr "Pour de plus amples renseignements, veuillez contacter : "
+
+#~ msgid "filter support groups"
+#~ msgstr "Filtrer les groupes de soutien"
+
+#~ msgid "select a province and city to find a support group"
+#~ msgstr ""
+#~ "Sélectionnez votre province et votre ville pour trouver un groupe de "
+#~ "soutien"
+
+#~ msgid "Filter"
+#~ msgstr "Filtrer"
