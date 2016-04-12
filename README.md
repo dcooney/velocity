@@ -1,6 +1,9 @@
 # Velocity
 Improve website performance by lazy loading and customizing your YouTube, Vimeo and SoundCloud media embeds.
 
+**[Download from wordpress.org](https://wordpress.org/plugins/velocity/)** 
+
+
 Velocity is an alternative loading method to the standard to YouTube, Vimeo and Soundcloud iframe embeds. 
 
 With Velocity you will decrease the loading time and increase overall performance of your website by lazy loading media on-demand instead of on initial page load.
